@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "coral-rider-336111",
+  "private_key_id": "478563a957a98f7be1144fdc00bea729554ad43b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCwhAWLdtl+R32U\no1LFpwMnGpwrXHFcRet202eAe7wMRNLL/4FxGqwGJDb2ZTtQkpskgW81N1rlMuzw\n9D2qCRixw6JroBhTVBfspyBGWUtTdEPyPmgTghLsorvVzbEPTIMbEf1N/d9qYET5\nqIay0IM3E/Kxr2qDrMsEhvTqPNaxUpgcqkdqlt9wkPB0zmDOVUMxWiPngKD8lP2m\n/ZZQ5WTLmlmxnIxGEriRavXc8suJFFQFd1LUYZ4wI4nCF1yeg3MM+4Idfr2W5F4V\niO3HEXw9dKNsJRlfsF51irOR8IqeICjZ+vx54UqHmbtojKeM/FCK60IwO1SRGZsg\n0X3qu+Q3AgMBAAECggEAK7shlopE2vzCN4t5C7/TT6JPk4yNBzPJYMCCUXoWPiHk\n6aZs/sUBXmoldcjht5YCuroYf6Itsj/6JL4V8uTbCdtyh2B79lUMslQ7ckJYH55b\n4Q2mAkNFBfxRNeiGV8h4aMH9tA9UBQpBvGqMqItxHrmh9HSFmoa6K252Cfw1omtv\nFhXfWY4Iv9D8STHiCLZozZgsN8+skjnTa93Qw77Sd2Z6X+YFQsBlQmj7mSdLaSQZ\n8gcz23mUxfA+SE9/r9Q9X7v2M9UqjhK2PHnUaYUO9VhlivDRBt8vSabU5jRinSIR\nmvd/rEX30I4GYd7YgwsYjNfAk8CWPCMIbY2fopy0yQKBgQDeMOicnidQlhifSy8E\nVYTwN+34SfAcWNcX9OM+MUVYXy2OgtaXJ17lHRCOkMEIzWjH6c1ddqfkNcXuihfP\n5Zth1/hDvcO3DUs3yhLOGBXaOVuoREdu+fz5XkTEqkYbEQP37FfoPk14hO2xWIfQ\nVRZt/M1XJEB3HQcL/aBE5XjX7wKBgQDLX+eESflZM2pem+QJ1ftF5UPPWPriP+Iq\nslv84xw7yK+mKfNC5Nvjvqy4++kpJ/sfKAvnjzH8JMdJ5l5LFlOqYB9BLwdOyysz\nqYShkOx5KlWvgixb5AOpcXVN4GaN1NK8r5erYNUeJg46nFNKfgMLYnYYluxuPNw9\nsSQqLBkwOQKBgHvQdU8RModNnNrnYoPfw/y4rfs1+H9TYkkPRbJacnIUV6aacko4\nvkCeOaO4NllZXZJJTw9OF7Cr5mhOu4Y2RKf5WXcmP/G5jri/+kquUT8Rx2m04rmM\nxNORHHEbEYXzrWpyYWohjbojGPFCjCwjviP8Q9DTerjljA+6fZzm4rgxAoGAKpHa\njjBFx0wh2cfbxctKm2jP9tjzOuSQXMuUwaxwPntVePyS9M+ez18cHGRue7Tota7W\nPxQULGkuZeOYnTMBNEqGgEhtySpx0pCLOJ5zQTGBWglva5Sgx5j+Ktzr2ohPzDsd\nDjxon7TriY0rSg5yaLGlcqQ0vSZ0G1226jTs2NECgYA0vtxuVYMeTPxZYXTj0SW8\nQqa3YKttvv9jk/HaD70VS24M70CH5AWyPqU7eums7jKPl3as7++ygqkox07+rqEN\nanMJup4pYbrGTz1OGKwu8ik5rAUW3L6vpQf5f8IUNmFq/ADTRoYm5va07lVsQzCJ\nwbB3Gd280KkpjMUOLnbbZw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "vision-api@coral-rider-336111.iam.gserviceaccount.com",
+  "client_id": "100430932735813638689",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vision-api%40coral-rider-336111.iam.gserviceaccount.com"
+}
